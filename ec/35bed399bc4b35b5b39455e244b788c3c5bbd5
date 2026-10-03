@@ -1,0 +1,18 @@
+index.js
+  h_690cf8a536e111 8-9,37-61,86
+index.ts
+  h_690cf8a536e111 10-11,60-84,112
+package.json
+  h_690cf8a536e111 49-50,53
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "ec35bed399bc4b35b5b39455e244b788c3c5bbd5",
+  "prompts": {},
+  "humans": {
+    "h_690cf8a536e111": {
+      "author": "Muhammad Andhika Prasetya <andhikapraa@gmail.com>"
+    }
+  }
+}

@@ -1,0 +1,22 @@
+index.ts
+  s_384ee9c9ac1a6b::t_ed16100a61e51d 9,217-232,236,238-243,246-257,270-271
+  s_384ee9c9ac1a6b::t_24f4536f0724d2 233-235,237
+index.js
+  s_384ee9c9ac1a6b::t_abaf078d3e0f5a 7,190-216,220-231,243-245
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "3935994e79fb3f488d54276c3687c44237e17780",
+  "prompts": {},
+  "sessions": {
+    "s_384ee9c9ac1a6b": {
+      "agent_id": {
+        "tool": "pi",
+        "id": "01a107ed-dbd8-7265-b158-3bbcd892b98c",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Muhammad Andhika Prasetya <andhikapraa@gmail.com>"
+    }
+  }
+}
